@@ -15,7 +15,7 @@
             org.apache.shindig.gadgets.oauth.OAuthModule:
             org.apache.shindig.common.cache.ehcache.EhCacheModule:
             <!--  org.apache.shindig.extras.ShindigExtrasGuiceModule:
-            org.apache.shindig.extras.as.ActivityStreamsGuiceModule-->
+             org.apache.shindig.extras.as.ActivityStreamsGuiceModule-->
         </param-value>
     </context-param>
 
